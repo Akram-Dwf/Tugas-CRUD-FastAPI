@@ -1,4 +1,4 @@
-# Tugas Praktikum CRUD Dasar - RESTful API & ORM
+# Tugas CRUD - RESTful API & ORM
 
 Repositori ini berisi implementasi tugas CRUD Dasar untuk mata kuliah Pemrograman Web Lanjutan. Proyek ini mendemonstrasikan pembuatan endpoint API menggunakan FastAPI, integrasi database SQLite menggunakan SQLAlchemy (ORM), dan validasi output menggunakan Pydantic.
 
