@@ -20,7 +20,7 @@ Repositori ini berisi implementasi tugas CRUD Dasar untuk mata kuliah Pemrograma
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/Akram-Dwf/Tugas-CRUD-FastAPI.git](https://github.com/Akram-Dwf/Tugas-CRUD-FastAPI.git)
+   git clone https://github.com/Akram-Dwf/Tugas-CRUD-FastAPI.git
    cd Tugas-CRUD-FastAPI
    ```
 2. **Aktifkan Virtual Environment :**
